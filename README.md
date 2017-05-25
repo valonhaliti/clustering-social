@@ -1,7 +1,7 @@
 # Clustering of Words from Social Networks
 To execute the application, it's preferable to be inside some environment, we suggest anaconda environment.
 
-Install this packages:
+Install these packages:
 - cycler
 - functools32
 - nltk
