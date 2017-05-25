@@ -1,5 +1,5 @@
 # Clustering of words from social networks
-To execute the application, it's preferable to be insede some environment, we suggest anaconda environment.
+To execute the application, it's preferable to be inside some environment, we suggest anaconda environment.
 
 Install this packages:
 - cycler
