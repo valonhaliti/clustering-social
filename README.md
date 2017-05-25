@@ -16,4 +16,4 @@ Install this packages:
 - wheel
 - xlwt
 
-Then, execute the document_clustering.py with the following command `python document_clustering.py 6 name.csv`. Use Facepager to get csv file for any Facebook profile / page. 
+Then, execute the document_clustering.py with the following command, example `python document_clustering.py 6 name.csv` (if we want 6 clusters). Use Facepager to get csv file for any Facebook profile / page. 
